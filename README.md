@@ -5,9 +5,17 @@ An iPython notebook that tests [Graphify's](http://github.com/graphify/graphify)
 
 Content
 -------
-- The slides are at [``https://github.com/kbastani/sentiment-analysis-movie-reviews/pdf``](https://github.com/kbastani/sentiment-analysis-movie-reviews/pdf)
+- The slides are at [``https://github.com/kbastani/sentiment-analysis-movie-reviews/tree/master/pdf``](https://github.com/kbastani/sentiment-analysis-movie-reviews/pdf)
 
 - The interactive notebooks are in the main folder.
+
+Classification Accuracy
+--------
+- Scores `~90%` accuracy on Cornell Movie Review dataset.
+- Scores `~80%` accuracy on Stanford Large Movie Review dataset.
+
+###Feature learning
+- Features are extracted and learned using Java and Neo4j, and evaluated by building a logistic regression classifier on a weighted tf-idf feature vector.
 
 Viewing the notebooks online
 ----------------------------
