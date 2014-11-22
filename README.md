@@ -5,7 +5,7 @@ An iPython notebook that tests [Graphify's](http://github.com/graphify/graphify)
 
 Content
 -------
-- The slides are at [https://github.com/kbastani/sentiment-analysis-movie-reviews/tree/master/pdf](https://github.com/kbastani/sentiment-analysis-movie-reviews/pdf)
+- The slides are at [https://github.com/kbastani/sentiment-analysis-movie-reviews/tree/master/pdf](https://github.com/kbastani/sentiment-analysis-movie-reviews/tree/master/pdf)
 
 - The interactive notebooks are in the main folder.
 
